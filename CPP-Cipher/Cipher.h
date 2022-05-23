@@ -1,14 +1,17 @@
 #ifndef _CIPHER_
 #define _CIPHER_
+
 #ifndef _STRING_
 #include <string>
-#endif
+#endif /* _STRING_ */
+
 #ifndef _IOMANIP_
 #include <iomanip>
-#endif
+#endif /* _IOMANIP */
+
 #ifndef _IOSTREAM_
 #include <iostream>
-#endif
+#endif /* _IOSTREAM_ */
 
 namespace cipher { 
 
